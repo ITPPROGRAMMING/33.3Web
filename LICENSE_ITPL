@@ -1,0 +1,24 @@
+Lea la siguiente licencia antes de poder hacer cambios en en el proyecto "33.3 Web"
+
+ITP PROGRAMMING 2020 ©CopyRight
+Todos los derechos (referentes al codigo) Reservados con licencia para unico uso por 33.3 Televisión
+33.3 Televisión 2020 ©CopyRight
+Todos los derechos reservados los logos de 33.3 App, 33.3 Soporte, 33.3 Televisión, 33.3 Radio, 33.3 teatro, 33.3 musica  y Conciertos son propiedad intelectual de 33.3 Televisión
+
+Referente a este repositorio de GitHub los componentes modificableas son 
+1.- Los archivos debajo de la capeta "public" los demas archivos no podran modificarse y de ser necesario se devera cosultar con ITP PROGAMMING
+2.- En caso de una modificación en la interfaz o el codigo drastica estara medida bajo ciertas condiciones:
+  2.1. Interfaces
+    2.1.1.- No debe ser una modificacion que arruine la apariencia minimalista y amigable de la plataforma
+    2.1.2.- Debe estar prevista para lanzarse en una fecha y horario especifico desde Firebase Hosting
+    2.1.3.- Debe probarse en los dos tipos de dispositivos objetivos.
+      Ejemplo: Dispocitivo de Escritorio Sistema operativo Windows, Navegador: Google Chrome
+               Dispositivo Movil Sistema Operativo Android, Navegador Android Defoul Browser
+   2.2.Codigo
+    2.2.1.- Cambios de Bibliotecas y actualizacion de las mismas
+      2.2.1.1.- Deven ser Versiones de producción no "Beta" ni "Alpha"
+      2.2.1.2.- Deven estar Colocadas con la sintaxis y el orden (al inicio y fin)
+    2.2.2.-Cambios en "Javascript"
+      Deben estar en correcta Sintaxis y de preferencia capturar los datos en variables (var) y constantes (val)
+
+Si cumple con las condiciones anteriores Usted tiene la licencia de usr el codigo con licencia de ITP PROGRAMMING Teams Lince (ITPL)
